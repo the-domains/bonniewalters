@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Bonniewalters]]></title>
         <description><![CDATA[Bonniewalters]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/bonniewalters/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 10 Mar 2016 09:07:16 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 10 Mar 2016 12:07:05 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/bonniewalters/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/06fb764f-51df-45f4-a4cb-9fdb7064136e.jpg">]]></description>
-            <link>undefinedsome-new-works-that-i-have-started/index.html</link>
+            <link>https://thegrid.ai/bonniewalters/some-new-works-that-i-have-started/index.html</link>
             <guid isPermaLink="false">68ef6050-66bd-40ea-8a6d-6ec9d18980ad</guid>
-            <pubDate>Thu, 10 Mar 2016 09:07:05 GMT</pubDate>
+            <pubDate>Thu, 10 Mar 2016 12:06:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
