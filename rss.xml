@@ -4,7 +4,7 @@
         <description><![CDATA[Bonniewalters]]></description>
         <link>https://thegrid.ai/bonniewalters/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 27 Apr 2016 13:20:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Apr 2016 13:40:32 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bonniewalters/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -26,13 +26,6 @@
             <link>https://thegrid.ai/bonniewalters/this-is-a-picture-of-the-entire-system-and-how-it-will-work/index.html</link>
             <guid isPermaLink="false">70c5825b-9010-410c-b4d3-287f54d5b906</guid>
             <pubDate>Wed, 27 Apr 2016 13:14:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/06fb764f-51df-45f4-a4cb-9fdb7064136e.jpg">]]></description>
-            <link>https://thegrid.ai/bonniewalters/some-new-works-that-i-have-started/index.html</link>
-            <guid isPermaLink="false">68ef6050-66bd-40ea-8a6d-6ec9d18980ad</guid>
-            <pubDate>Thu, 10 Mar 2016 12:07:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
