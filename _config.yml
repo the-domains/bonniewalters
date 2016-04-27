@@ -1,7 +1,7 @@
 name: Bonniewalters
 favicon: null
-layout_spectrum: 0.8140783314593136
-typography_spectrum: 0.7984515256248415
+layout_spectrum: 0
+typography_spectrum: 0.40967
 cta:
   domain: null
   bucket: null
@@ -21,7 +21,7 @@ color:
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
-  brandStrength: 0.24270837497897446
+  brandStrength: 0.25
   lightness: 0.19482847792096436
   saturation: 0.09062496642582119
   rhythmicContrast: 0.9891908862628043
